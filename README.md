@@ -16,5 +16,5 @@ Generaciones: 50
 ![Resultados 10 city](https://github.com/giulianodelagala/IA-AlgoritmoMemetico/blob/master/resultados10.png)
 ![AG 10 city](https://github.com/giulianodelagala/IA-AlgoritmoMemetico/blob/master/gen10.png)
 ![AG grafico 10 city](https://github.com/giulianodelagala/IA-AlgoritmoMemetico/blob/master/gen10g.png)
-![AM 10 city](https://github.com/giulianodelagala/IA-AlgoritmoMemetico/blob/master/mem10.png)
+![AM 10 city](https://github.com/giulianodelagala/IA-AlgoritmoMemetico/blob/master/men10.png)
 ![AM grafico 10 city](https://github.com/giulianodelagala/IA-AlgoritmoMemetico/blob/master/mem10g.png)
