@@ -3,5 +3,7 @@
 Trabajo Final IA
 Comparacion entre un Algoritmo Genetico y un Memetico para resolucion de TSP
 
-Alexander Pinto
+Alexander Pinto De la Gala
 
+Oscar Ramos.
+Jesamin Zevallos.
