@@ -13,3 +13,4 @@ Ciudades: 10
 Poblacion: 20
 Generaciones: 50
 
+![Algoritmo Genetico 10 city](https://github.com/giulianodelagala/IA-AlgoritmoMemetico/blob/master/gen10.png)
